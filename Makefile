@@ -1,4 +1,4 @@
-MERGE_BRANCH = main
+MERGE_BRANCH = origin/main
 EXCLUDE_FILE = index.html
 
 merge-files:
